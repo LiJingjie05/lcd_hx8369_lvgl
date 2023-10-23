@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/xiaoli/esp/lcd_hx_8369_test/build/CMakeFiles/bootloader
+/home/xiaoli/esp/lcd_hx_8369_test/build/CMakeFiles/bootloader.rule
+/home/xiaoli/esp/lcd_hx_8369_test/build/CMakeFiles/bootloader-complete.rule
+/home/xiaoli/esp/lcd_hx_8369_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/xiaoli/esp/lcd_hx_8369_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/xiaoli/esp/lcd_hx_8369_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/xiaoli/esp/lcd_hx_8369_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/xiaoli/esp/lcd_hx_8369_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/xiaoli/esp/lcd_hx_8369_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/xiaoli/esp/lcd_hx_8369_test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

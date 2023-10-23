@@ -1,0 +1,12 @@
+{
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "files.associations": {
+        "lvgl.h": "c",
+        "hx8369.h": "c"
+    },
+    "idf.flashType": "UART",
+    "idf.port": "/dev/ttyS8"
+}
